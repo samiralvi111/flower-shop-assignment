@@ -1,0 +1,28 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+body{
+  font-family: 'Lato', sans-serif;
+}
+.first-section{
+  display: flex;
+  background-color: #FCEEF1;
+  align-items: center;
+  justify-content: right;
+}
+.first-image{
+width: 500px;
+}
+.heading-section{
+ 
+}
+.heading{
+  font-size: 50px;
+}
+.first-description{
+  font-size: 15px;
+}
+.btn-primary{
+  padding: 20px 43px;
+}
