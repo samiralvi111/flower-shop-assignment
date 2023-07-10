@@ -9,20 +9,29 @@ body{
   display: flex;
   background-color: #FCEEF1;
   align-items: center;
-  justify-content: right;
+  padding-right: 50px;
+  padding-left: 50px;
+  padding-top: 40px;
+  justify-content: space-around;
 }
 .first-image{
-width: 500px;
+width: 400px;
 }
 .heading-section{
- 
+
 }
 .heading{
   font-size: 50px;
 }
 .first-description{
   font-size: 15px;
+  margin-top: 20px;
 }
 .btn-primary{
-  padding: 20px 43px;
+  padding: 10px 20px;
+  background-color: #E55473;
+  border: none;
+  border-radius: 7px;
+  color: white;
+  margin-top: 20px;
 }
