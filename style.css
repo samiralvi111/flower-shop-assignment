@@ -36,6 +36,9 @@ width: 400px;
   text-align: center;
   margin: 50px;
 }
+.secound-tittle{
+  margin-bottom: 15px;
+}
 .images{
   display: flex;
   justify-content: space-evenly;
@@ -58,4 +61,7 @@ width: 400px;
   width: 180px;
   background-color: #E3ECDB;
   border-radius: 100px 100px 0px 0px;
+ }
+ .inner1{
+  margin-top: 10px;
  }
