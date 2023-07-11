@@ -180,6 +180,9 @@ margin-bottom: 10px;
  }
  .shop-place{
   margin-top: 10px;
+  box-shadow: 5px 5px 5px;
+  border: 1px solid black;
+  background-color: #E55473;
  }
  .branch{
   margin-bottom: 10px;
