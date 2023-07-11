@@ -73,6 +73,19 @@ width: 400px;
  .inner{
   margin-top: 15px;
  }
+ .optional-class{
+  text-align: center;
+ }
+ .optional-section{
+  display: flex;
+  justify-content: space-evenly;
+  background-color: #F4F4F4;
+  height: 200px;
+  margin-left: 10%;
+  margin-right: 10%;
+  margin-top: 10%;
+  padding-top: 5%;
+ }
  .secound-description{
   margin-top: 10px;
  }
