@@ -40,8 +40,7 @@ width: 400px;
   display: flex;
   justify-content: space-evenly;
   text-align: center;
-  
-  
+   
 }
 .first-image1{
   width: 195px;
@@ -49,7 +48,8 @@ width: 400px;
   border-radius: 100px 100px 0px 0px;
 }
 .first-image2{
-  width: 270px;
+  width: 195px;
+  height: 270px;
   background-color: #DAEFF1;
   border-radius: 200px 200px 0px 0px;
 }
