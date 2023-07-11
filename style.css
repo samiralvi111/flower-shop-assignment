@@ -104,14 +104,14 @@ width: 400px;
  }
  .fifth-heading{
   text-align: center;
-  padding-top: 180px;
+  padding-top: 100px;
  }
  .fifth-section{
  background-image:url(rectangle\ 9.png);
  background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
-  height: 500px;
+  height: 350px;
   margin:5%;
   align-items: center;
  }
@@ -119,7 +119,7 @@ width: 400px;
   width: 700px;
 height: 64px;
 text-align: left;
-margin-top: 30px;
+margin-top: 10px;
 padding-left: 10px;
 
  }
@@ -128,7 +128,7 @@ padding-left: 10px;
   background-color: #E55473;
   border: none;
   color: white;
-  margin-top: 30px;
+  margin-top: 10px;
   width: 150px;
   height: 64px;
   margin-left: 10px;
