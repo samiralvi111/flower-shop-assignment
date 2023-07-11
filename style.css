@@ -163,3 +163,24 @@ margin-bottom: 10px;
  .last-description{
   margin-bottom: 10px;
  }
+ .new-heading{
+  text-align: center;
+  margin-top: 70px;
+ }
+ .shopimage{
+  width: 400px;
+ }
+ .new-section{
+  display: flex;
+  justify-content: space-evenly;
+  margin-top: 40px;
+ }
+ .new-tittle{
+  text-align: center;
+ }
+ .shop-place{
+  margin-top: 10px;
+ }
+ .branch{
+  margin-bottom: 10px;
+ }
